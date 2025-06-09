@@ -34,13 +34,5 @@ python hangman.py
 
 ---
 
-## 🙋‍♀️ Author
-Mythri Tadikonda
-Intern ID: `CA/JU1/6398`
-Internship Domain: Python Programming
-Duration: June 2025
-
----
-
 ## 🔖 Tags
 #CodeAlpha #PythonProjects #Internship #HangmanGame #PythonMiniProject
