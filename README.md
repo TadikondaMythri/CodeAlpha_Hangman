@@ -30,7 +30,7 @@ python hangman.py
 ---
 
 ## 📽️ Demo Video
-🔗 Watch Demo on LinkedIn (link will be added soon)
+🔗 Watch Demo on LinkedIn (https://www.linkedin.com/posts/mythri-tadikonda-82308234a_codealpha-pythoninternship-hangmangame-activity-7337766062974791680-5npM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFc4OhsBb_gpnQHhjODr8VKJ9eQrypsHVlk)
 
 ---
 
